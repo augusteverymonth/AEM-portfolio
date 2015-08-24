@@ -1,9 +1,6 @@
 Hello there!
 
-This is my personal porfolio site using "Hightlights" by HTML5 UP - html5up.net (@n33co)
-
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+This is my personal porfolio site - used "Highlights" by HTML5 UP - html5up.net (@n33co)
 
 
 Credits:
